@@ -13,11 +13,11 @@
     // モデルのURLリスト
     const placementModelUrls = {
         model1:
-            'https://olip3icm8hp0awfv.public.blob.vercel-storage.com/Minimalist_Wooden_Cha_0508081135_texture-7QQTImgSGZGMzzlcFbn1jEUt8eGRHM.glb',
+            'https://pvjsvzxyvbxf4yiz.public.blob.vercel-storage.com/%E3%82%A4%E3%82%B9.glb',
         model2:
-            'https://olip3icm8hp0awfv.public.blob.vercel-storage.com/Minimalist_Workspace_0508080456_texture-NK7i3d36Z7XrcfYKaZqTOHGKXOUshk.glb',
+            'https://pvjsvzxyvbxf4yiz.public.blob.vercel-storage.com/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB.glb',
         model3:
-            'https://olip3icm8hp0awfv.public.blob.vercel-storage.com/Wardrobe_Elegance_0508075748_texture-Wn9yICsuT63bVZkyHlj1rONLxKS7Ok.glb'
+            'https://pvjsvzxyvbxf4yiz.public.blob.vercel-storage.com/%E3%82%AF%E3%83%AD%E3%82%BC%E3%83%83%E3%83%88.glb'
     };
 
     // GLBモデルをロードして返すPromiseを作成する関数
